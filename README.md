@@ -13,5 +13,3 @@ Página de pesquisa de endereço por CEP, utilizando a api do <a href="https://v
 #### _Votando_
 
 ![pesquisando](https://raw.githubusercontent.com/felipelouzeiro/buscador/master/src/images/buscando.gif)
-
-Feito com :heart: <a href="https://www.linkedin.com/in/felipelouzeiro/"> Felipe Louzeiro </a>.
